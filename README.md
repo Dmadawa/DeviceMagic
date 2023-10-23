@@ -1,0 +1,2 @@
+# DeviceMagic
+Test CI/CD
